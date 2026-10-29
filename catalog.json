@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-29T20:40Z",
+ "generated": "2026-10-29T20:54Z",
  "tags": [
   "analysis",
   "architecture",
@@ -2289,6 +2289,32 @@
    "reviewed": false,
    "added_at": "2026-10-13T22:15Z",
    "updated_at": "2026-10-13T22:15Z"
+  },
+  {
+   "id": "v_menu",
+   "version": "0.1",
+   "author": "priit123",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/priit123/ingetrazo-v-menu",
+   "download": "https://github.com/priit123/ingetrazo-v-menu/archive/refs/tags/0.1.zip",
+   "sha256": "11fec3c7e199637f1842d93e5c06d3c3a022fb4decbf7cf89e55d82b69e2cbc5",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "productivity"
+   ],
+   "name": {
+    "es": "V Menu",
+    "en": "V Menu",
+    "pt": "V Menu"
+   },
+   "summary": {
+    "es": "Un menú radial rápido para un acceso ágil a las herramientas con la tecla V.",
+    "en": "A fast radial menu for quick tool access bound to shortcut key V.",
+    "pt": "Um menu radial rápido para acesso ágil às ferramentas com a tecla V."
+   },
+   "reviewed": false,
+   "added_at": "2026-10-02T14:40Z",
+   "updated_at": "2026-10-29T20:54Z"
   },
   {
    "id": "standalone_3d_html_viewer",
