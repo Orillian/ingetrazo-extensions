@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-29T21:21Z",
+ "generated": "2026-10-30T10:33Z",
  "tags": [
   "analysis",
   "architecture",
@@ -879,13 +879,13 @@
   },
   {
    "id": "gumball",
-   "version": "1.1",
+   "version": "1.2",
    "author": "seghier",
    "author_url": "https://github.com/seghier",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/seghier/IngeTrazoGumball",
-   "download": "https://github.com/seghier/IngeTrazoGumball/releases/download/v1.1/gumball.zip",
-   "sha256": "10831a990d2d3ca333e31ea8e5dff75012ae4401a243d65286a32ab1269be362",
+   "download": "https://github.com/seghier/IngeTrazoGumball/releases/download/v1.2/gumball.zip",
+   "sha256": "7ef089fa5bc32c77b6ded8ad63f2afd0c0ad85a005d951b3ee1a873ee7f9873c",
    "ingetrazo": "0.5.7",
    "tags": [
     "productivity",
@@ -903,7 +903,7 @@
    },
    "reviewed": false,
    "added_at": "2026-10-27T03:43Z",
-   "updated_at": "2026-10-27T16:39Z"
+   "updated_at": "2026-10-30T10:32Z"
   },
   {
    "id": "align_tool",
