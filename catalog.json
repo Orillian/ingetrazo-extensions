@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-24T07:22Z",
+ "generated": "2026-11-24T19:00Z",
  "tags": [
   "analysis",
   "architecture",
@@ -425,13 +425,13 @@
   },
   {
    "id": "asset_manager",
-   "version": "0.5.1",
+   "version": "0.7.1",
    "author": "moominot",
    "author_url": "https://github.com/moominot",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/moominot/ingetrazo-skp-dc-import",
-   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/asset_manager-v0.5.1/asset_manager-0.5.1.zip",
-   "sha256": "84e80cf23f04690dd4ec4a10266eab783bf8cb0478594b6117e61b058f5a7bae",
+   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/asset_manager-v0.7.1/asset_manager-0.7.1.zip",
+   "sha256": "4b65f9fb366c38f39853c8512465f4dfff4667b4c4d0f838ceeebacd43c2485d",
    "ingetrazo": "0.6.2.1",
    "tags": [
     "productivity",
@@ -454,7 +454,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-22T00:04Z",
-   "updated_at": "2026-11-22T23:35Z",
+   "updated_at": "2026-11-24T18:59Z",
    "screenshot_sha": "ef30067db2127359",
    "thumb": "asset_manager.webp"
   },
