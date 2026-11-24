@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-24T19:08Z",
+ "generated": "2026-11-24T19:09Z",
  "tags": [
   "analysis",
   "architecture",
@@ -3566,13 +3566,13 @@
   },
   {
    "id": "render_studio",
-   "version": "0.28.0",
+   "version": "0.28.1",
    "author": "moominot",
    "author_url": "https://github.com/moominot",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/moominot/ingetrazo-render-studio",
-   "download": "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.28.0/render_studio-0.28.0.zip",
-   "sha256": "d7350f5abdc7951d7fda1e3ad1ee26442462fcb74887040a1a2d6785b7b62a65",
+   "download": "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.28.1/render_studio-0.28.1.zip",
+   "sha256": "2b8455fb8d658991ad5c39a55e79381054f829da63f74090a45277133647baf9",
    "ingetrazo": "0.6.2.1",
    "tags": [
     "rendering",
@@ -3594,7 +3594,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-22T23:34Z",
-   "updated_at": "2026-11-24T01:02Z",
+   "updated_at": "2026-11-24T19:09Z",
    "screenshot_sha": "04cec332d0a8a40b",
    "thumb": "render_studio.webp"
   },
