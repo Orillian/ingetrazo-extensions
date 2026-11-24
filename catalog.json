@@ -1012,13 +1012,13 @@
   },
   {
    "id": "dc_tools",
-   "version": "0.3.5",
+   "version": "0.3.7",
    "author": "moominot",
    "author_url": "https://github.com/moominot",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/moominot/ingetrazo-skp-dc-import",
-   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.5/dc_tools-0.3.5.zip",
-   "sha256": "cee68dcfbbdba44dde7c5a15684ffe111c048ccc2703bcbfbf25a3e9635a8197",
+   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.7/dc_tools-0.3.7.zip",
+   "sha256": "167b73ab2d7410fb86942d87c137432a2b26f800bb068f153c5ba2bad07d40d9",
    "ingetrazo": "0.6.2.1",
    "tags": [
     "architecture",
@@ -1040,7 +1040,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-22T23:34Z",
-   "updated_at": "2026-11-22T23:34Z",
+   "updated_at": "2026-11-24T19:00Z",
    "screenshot_sha": "fd4f2744072271f7",
    "thumb": "dc_tools.webp"
   },
