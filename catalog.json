@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-25T21:15Z",
+ "generated": "2026-11-26T22:21Z",
  "tags": [
   "analysis",
   "architecture",
@@ -2710,13 +2710,13 @@
   },
   {
    "id": "cutlist",
-   "version": "0.2.4",
+   "version": "0.2.5",
    "author": "Ronaldo Alves",
    "author_url": "https://github.com/ronaldogalves",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/ronaldogalves/cutlist-ingetrazo",
-   "download": "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.2.4/cutlist-0.2.4.zip",
-   "sha256": "f6d8ac81e6dec6003ea0cfcdf732b15afe09d1f052b6c5c804881dab6bd05061",
+   "download": "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.2.5/cutlist-0.2.5.zip",
+   "sha256": "f47e7d6854a9ebcb92ae38da93cb57bff15831c963c514d8a706cb3a86495013",
    "ingetrazo": "0.6.3.2",
    "tags": [
     "fabrication",
@@ -2735,7 +2735,7 @@
    },
    "reviewed": false,
    "added_at": "2026-10-21T20:31Z",
-   "updated_at": "2026-11-25T11:10Z",
+   "updated_at": "2026-11-26T22:21Z",
    "screenshot_sha": "8a775ff373a603f0",
    "thumb": "cutlist.webp"
   },
