@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-27T10:25Z",
+ "generated": "2026-11-27T17:33Z",
  "tags": [
   "analysis",
   "architecture",
@@ -3554,7 +3554,7 @@
    "reviewed": false,
    "added_at": "2026-11-22T23:40Z",
    "updated_at": "2026-11-24T20:53Z",
-   "screenshot_sha": "f8532bd411d38cb3",
+   "screenshot_sha": "2034fba24156184c",
    "thumb": "portico_nave.webp"
   },
   {
