@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-27T09:18Z",
+ "generated": "2026-11-27T10:22Z",
  "tags": [
   "analysis",
   "architecture",
@@ -230,13 +230,13 @@
   },
   {
    "id": "archxq_it_lite",
-   "version": "0.14.0",
+   "version": "0.15.0",
    "author": "Orlando Souza · XQ",
    "author_url": "https://github.com/equipexq",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/equipexq/archxq-it-lite",
-   "download": "https://github.com/equipexq/archxq-it-lite/releases/download/v0.14.0/archxq_it_lite-v0.14.0.zip",
-   "sha256": "2e5fd3b40a1d414c721e82174441739310c1d656d071c97b4e1be54ac7bbd268",
+   "download": "https://github.com/equipexq/archxq-it-lite/releases/download/v0.15.0/archxq_it_lite-v0.15.0.zip",
+   "sha256": "ec5ed3c3083cb5252846458ce10634cd2b77b939dbc2a822a6f3b5ed0afb7837",
    "ingetrazo": "0.5.8",
    "tags": [
     "architecture",
@@ -257,7 +257,7 @@
    },
    "reviewed": false,
    "added_at": "2026-10-04T22:30Z",
-   "updated_at": "2026-11-22T00:03Z",
+   "updated_at": "2026-11-27T10:21Z",
    "screenshot_sha": "14add5f2868a6a03",
    "thumb": "archxq_it.webp"
   },
@@ -424,41 +424,6 @@
    "thumb": "igz_toolbars.webp"
   },
   {
-   "id": "asset_manager",
-   "version": "0.7.1",
-   "author": "moominot",
-   "author_url": "https://github.com/moominot",
-   "license": "GPL-3.0-or-later",
-   "repository": "https://github.com/moominot/ingetrazo-skp-dc-import",
-   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/asset_manager-v0.7.1/asset_manager-0.7.1.zip",
-   "sha256": "4b65f9fb366c38f39853c8512465f4dfff4667b4c4d0f838ceeebacd43c2485d",
-   "ingetrazo": "0.6.2.1",
-   "tags": [
-    "productivity",
-    "architecture",
-    "rendering"
-   ],
-   "screenshot": "asset_manager.webp",
-   "name": {
-    "es": "Biblioteca",
-    "en": "Library",
-    "pt": "Biblioteca"
-   },
-   "summary": {
-    "es": "Componentes y materiales del dibujo; tu catálogo de modelos, materiales y fondos 360° con filtro por tipo; HDRI, materiales PBR y modelos gratuitos de Poly Haven y ambientCG para guardar en el catálogo; y proxies.",
-    "en": "The drawing's components and materials; your catalog of models, materials and 360° backgrounds with a type filter; free HDRIs, PBR materials and models from Poly Haven and ambientCG to save to it; and proxies.",
-    "pt": "Componentes e materiais do desenho; seu catálogo de modelos, materiais e fundos 360° com filtro por tipo; HDRIs, materiais PBR e modelos gratuitos do Poly Haven e ambientCG para guardar nele; e proxies."
-   },
-   "description": {
-    "en": "A tray tab with three pages. In drawing: every component once, with a preview and a count (dynamic ones marked); select every instance (also from the view's right-click menu), replace them all with another component, edit it, or mark it as a stand-in (translucent, left out of the render); place a copy, or drag it onto the view. My catalog: your models (.igz, .skp, .gltf, .glb; also inside .zip files), material sets downloaded from any site, materials kept with a .pbr.json manifest (Render Studio's .rsmat files are read too) and 360° backgrounds (.hdr, .exr), with a type filter; the drawing's materials are listed beside them. Folders are watched in real time or read again with Update. Insert by double-click or by dragging: a model follows the cursor, a material loads the paint bucket, a background becomes Render Studio's 360° background. Save to catalog keeps a material of the drawing (its image and maps, or a simple picture of a plain colour, with translucency and finish) and, from the online tabs, the downloaded materials, models and HDRIs. A .skp keeps its components and dynamic data with the «Parametric components from .skp» extension. Online, a tab each for 360° backgrounds, materials and models: CC0 assets from Poly Haven and ambientCG; a material loads the paint bucket at its real size with all its maps. Proxies: with «As proxy» a model goes in as a light envelope while the full model is kept in an .igz next to the drawing; right-click: Make proxy, Show original, Show proxy, Open original in a new tab. One undo step each. Requests only reach each site's own servers over https; downloads are checked, cached and reused."
-   },
-   "reviewed": false,
-   "added_at": "2026-11-22T00:04Z",
-   "updated_at": "2026-11-24T18:59Z",
-   "screenshot_sha": "ef30067db2127359",
-   "thumb": "asset_manager.webp"
-  },
-  {
    "id": "blackfox_3d_inspector",
    "version": "1.2.0",
    "author": "David Mavrov",
@@ -497,14 +462,14 @@
   },
   {
    "id": "blackfox_cad_exporter",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "author": "David Mavrov",
    "author_url": "https://github.com/davidsmavrov-debug",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/davidsmavrov-debug/BlackFox-CAD",
-   "download": "https://raw.githubusercontent.com/davidsmavrov-debug/BlackFox-CAD/exporter-v1.0.1/IngeTrazo%20Extensions/3D%20DXF%20Exporter/BlackFox_CAD_Exporter_v1_0_1.py",
-   "sha256": "4e9546424fd5ab6c3bcbe78bcaffd0f1c275657d4b35ee05c616874d9aca005b",
-   "ingetrazo": "0.5.11",
+   "download": "https://raw.githubusercontent.com/davidsmavrov-debug/BlackFox-CAD/exporter-v1.0.2/IngeTrazo%20Extensions/3D%20DXF%20Exporter/BlackFox_CAD_Exporter_v1_0_2.py",
+   "sha256": "27f453e3c244bbd510e4e1f1d08d2dc33aa8401cd93faea4000f87c7d904d948",
+   "ingetrazo": "0.6.3",
    "tags": [
     "import-export",
     "architecture",
@@ -517,14 +482,14 @@
     "pt": "BlackFox CAD Exporter"
    },
    "summary": {
-    "en": "Export 3D geometry from IngeTrazo to DXF or DWG, preserving supported layers, groups, and components. DWG conversion uses a small Rust converter downloaded with your consent.",
-    "es": "Exporta geometría 3D de IngeTrazo a DXF o DWG, conservando capas, grupos y componentes compatibles. El conversor DWG se descarga con tu permiso.",
-    "pt": "Exporta geometria 3D do IngeTrazo para DXF ou DWG, preservando camadas, grupos e componentes compatíveis. O conversor DWG é baixado com sua autorização."
+    "en": "Open and import DXF, DWG and mesh files, and export 3D geometry to DXF or DWG. The native converter downloads with your consent.",
+    "es": "Abre e importa archivos DXF, DWG y de malla, y exporta geometría 3D a DXF o DWG. El conversor nativo se descarga con tu permiso.",
+    "pt": "Abre e importa arquivos DXF, DWG e de malha e exporta geometria 3D para DXF ou DWG. O conversor nativo é baixado com sua autorização."
    },
    "reviewed": false,
    "added_at": "2026-11-01T15:28Z",
-   "updated_at": "2026-11-04T03:45Z",
-   "screenshot_sha": "c5b16f383bf616d1",
+   "updated_at": "2026-11-27T10:21Z",
+   "screenshot_sha": "c6e4f79e9a14278f",
    "thumb": "blackfox_cad_exporter.webp"
   },
   {
@@ -1012,13 +977,13 @@
   },
   {
    "id": "dc_tools",
-   "version": "0.3.7",
+   "version": "0.3.9",
    "author": "moominot",
    "author_url": "https://github.com/moominot",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/moominot/ingetrazo-skp-dc-import",
-   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.7/dc_tools-0.3.7.zip",
-   "sha256": "167b73ab2d7410fb86942d87c137432a2b26f800bb068f153c5ba2bad07d40d9",
+   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.9/dc_tools-0.3.9.zip",
+   "sha256": "cf6c7bd4a164e9a228eb31d53eaec6466d2c4399e48ff2e788c2a0e7d1922787",
    "ingetrazo": "0.6.2.1",
    "tags": [
     "architecture",
@@ -1036,11 +1001,11 @@
     "pt": "Mude as opções de um componente dinâmico e redesenhe-o (cópias, peças ocultas, medidas, rotações, materiais), ou torne seus componentes dinâmicos e escreva atributos e fórmulas. Um botão ? explica cada função."
    },
    "description": {
-    "en": "Component Options shows a dynamic component's options and redraws it by the .skp format's rules: copies, hidden parts, sizes, positions, rotations, materials and LenX/LenY/LenZ resizing, checked part by part against the original program's redraw. Component Attributes makes a group dynamic and edits attributes and formulas per part, also inside an open group, where a nested part sees its parent (Parent!LenX). IngeTrazo's Scale tool shows only the handles a component's ScaleTool attribute allows, and a scaled dynamic component is redrawn at its new size instead of stretched. Every change is one undo step. Works on components imported with «Parametric components from .skp» or made here; needs no .skp file. Formula interpreter from d1rty-pixel's Dynamic Components (no eval, with limits on size and depth)."
+    "en": "Component Options shows a dynamic component's options and redraws it by the .skp format's rules: copies, hidden parts, sizes, positions, rotations, materials and LenX/LenY/LenZ resizing, checked part by part against the original program's redraw. Component Attributes makes a group dynamic and edits attributes and formulas per part, also inside an open group, where a nested part sees its parent (Parent!LenX). IngeTrazo's Scale tool shows only the handles a component's ScaleTool attribute allows, and a scaled dynamic component is redrawn at its new size instead of stretched. A dynamic component can cut its own hole in a wall: choose the side flush with it (Cut plane), an arrow shows the way the hole is cut and the cut can be flipped. A component becomes dynamic on its first attribute. Every change is one undo step. Works on components imported with «Parametric components from .skp» or made here; needs no .skp file. Formula interpreter from d1rty-pixel's Dynamic Components (no eval, with limits on size and depth)."
    },
    "reviewed": false,
    "added_at": "2026-11-22T23:34Z",
-   "updated_at": "2026-11-24T19:00Z",
+   "updated_at": "2026-11-27T10:21Z",
    "screenshot_sha": "fd4f2744072271f7",
    "thumb": "dc_tools.webp"
   },
@@ -3567,13 +3532,13 @@
   },
   {
    "id": "render_studio",
-   "version": "0.28.1",
+   "version": "0.29.0",
    "author": "moominot",
    "author_url": "https://github.com/moominot",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/moominot/ingetrazo-render-studio",
-   "download": "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.28.1/render_studio-0.28.1.zip",
-   "sha256": "2b8455fb8d658991ad5c39a55e79381054f829da63f74090a45277133647baf9",
+   "download": "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.29.0/render_studio-0.29.0.zip",
+   "sha256": "60a9d09adaacca1a2401c2a30008f19de4ed0e3bd999825f99f10d5e47b02691",
    "ingetrazo": "0.6.2.1",
    "tags": [
     "rendering",
@@ -3586,18 +3551,53 @@
     "pt": "Render Studio"
    },
    "summary": {
-    "es": "Renders fotográficos: aspectos, estilos (blanco, maqueta, lux, boceto, acuarela), panorámicas planas y 360°, cielo, suelo y horizonte, editores de luces y materiales, vista previa en vivo, escenas en lote; PNG a EXR.",
-    "en": "Photographic renders: looks, styles (white, model, lux, sketch, watercolour), 360° and flat panoramas, sky, ground and horizon, lights and materials editors, live preview, scenes in bulk; PNG to EXR.",
-    "pt": "Renders fotográficos: aspetos, estilos (branco, maquete, lux, esboço, aguarela), panorâmicas planas e 360°, céu, chão e horizonte, editores de luzes e materiais, prévia ao vivo, cenas em lote; PNG a EXR."
+    "es": "La potencia de Blender con la sencillez de IngeTrazo: imágenes impresionantes en 3 clics y navegación fotorrealista en vivo. Ambientes, estilos, secciones y panorámicas 360°.",
+    "en": "The power of Blender with the simplicity of IngeTrazo: stunning images in 3 clicks and live photorealistic navigation. Light presets, styles, sections and 360° panoramas.",
+    "pt": "O poder do Blender com a simplicidade do IngeTrazo: imagens impressionantes em 3 cliques e navegação fotorrealista ao vivo. Ambientes, estilos, cortes e panoramas 360°."
    },
    "description": {
-    "en": "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Looks: clear day, partly cloudy, golden hour, overcast, white model, interior (Cycles) and night. Each meters its exposure, with AgX, white balance, clouds, a sun coloured by its height and distance haze. Style: none, white, model (one material for everything), light (the lux each surface receives, in false colour with a scale), sketch (pencil lines on paper) and watercolour, each with fine outlines. Sky: date and hour sliders marked with the seasons and the photographers' hours, sun or moonlight, clouds and stars. Ground: a generated ground with the material of your choice (grass included), its radius and centre; Horizon: distant mountains, hills, forest or city. A 360° image can be the background and light the scene. Lights and Materials open in windows of their own: point, spot, area and sun lights, IES profiles, lights on objects, a material editor with presets, types (glass, water, glowing, grass…), maps per setting and an instant cube preview; «Edit in Blender…» opens the whole scene (or one material) in Blender for experts and the changes come back. Sun by place and hour, a section plane that cuts the render with a flat or hatched cap, and an Output tab: a flat or 360° panorama, size, PNG, JPEG, 16-bit PNG/TIFF, OpenEXR, transparent sky, and the ticked scenes rendered in bulk. The preview window keeps a live view with a quality of its own (Fast, Normal, High); Render uses that same Blender scene when it can and retouches the final picture without rendering again. Proxies render as their full models; what is hidden in the drawing stays out of the render."
+    "en": "The power of Blender with the simplicity of IngeTrazo: make stunning images in 3 clicks, and move around a live photorealistic view. It drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. A panel of cards (Main, Style, Environment, Section, Output), and an Expert mode with every setting, a search box and an eye to choose what each page shows. Five light buttons (sunny, cloudy, golden hour, night, interior), each with its exposure metered, AgX and white balance, and a gallery of presets with thumbnails. Style: surface (real materials, one colour or material, none, light analysis in lux), outline and finish (sketch, watercolour, a paper or canvas texture), which combine. Environment: sun by place and date, clouds and stars; shadows as rendered, in a colour or hatched; a background that is the sky, a 360° panorama, a fixed picture, a plain colour or transparent; generated ground with any material (grass included), horizon and fog. Lights and materials open in windows of their own: point, spot, area and sun lights, IES profiles, a material editor with types and maps, and a cube preview. Section: the section plane or section box cuts the render, with a cap from the drawing's textures, a flat colour or a hatching, and its outline. Output: flat or 360° panorama, two-point perspective, size, PNG, JPEG, 16-bit PNG or TIFF, OpenEXR, and the ticked scenes in bulk. A toolbar and a live preview window where the mouse moves the camera; Automatic engine (Cycles with a graphics card, else EEVEE). Proxies render as their full models; what is hidden stays out of the render."
    },
    "reviewed": false,
    "added_at": "2026-11-22T23:34Z",
-   "updated_at": "2026-11-24T19:09Z",
-   "screenshot_sha": "04cec332d0a8a40b",
+   "updated_at": "2026-11-27T10:21Z",
+   "screenshot_sha": "017dedafa913d69a",
    "thumb": "render_studio.webp"
+  },
+  {
+   "id": "asset_manager",
+   "version": "0.8.0",
+   "author": "moominot",
+   "author_url": "https://github.com/moominot",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/moominot/ingetrazo-skp-dc-import",
+   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/asset_manager-v0.8.0/asset_manager-0.8.0.zip",
+   "sha256": "cb7ac191e022a011d9510cfd382fe14f0897b96a1d67279fda5fc9dfe8c507e5",
+   "ingetrazo": "0.6.2.1",
+   "tags": [
+    "productivity",
+    "architecture",
+    "rendering"
+   ],
+   "screenshot": "asset_manager.webp",
+   "name": {
+    "es": "Render Studio Library",
+    "en": "Render Studio Library",
+    "pt": "Render Studio Library"
+   },
+   "summary": {
+    "es": "Un buen compañero de Render Studio: modelos, materiales y fondos 360° del dibujo, de tu catálogo (con categorías) y de Poly Haven y ambientCG, gratis; guardar, exportar y proxies.",
+    "en": "A good companion of Render Studio: models, materials and 360° backgrounds from the drawing, your catalog (with categories) and the free Poly Haven and ambientCG; save, export and proxies.",
+    "pt": "Um bom companheiro do Render Studio: modelos, materiais e fundos 360° do desenho, do seu catálogo (com categorias) e do Poly Haven e ambientCG, grátis; salvar, exportar e proxies."
+   },
+   "description": {
+    "en": "A good companion of Render Studio: the models, materials and backgrounds to render with, in one place (it works on its own too). A tray tab with three pages, Models, Materials and Backgrounds, each with a source box: the drawing, your catalog or one of its folders, or the CC0 assets of Poly Haven and ambientCG. Categories (any number per item) with a filter; online assets bring theirs. Insert by button, double-click or dragging: a model follows the cursor, a material loads the paint bucket, a background becomes Render Studio's 360° background. Save to catalog keeps a material of the drawing (as IngeTrazo's .igmat when it can), a component (as an .igz) or an online asset; Export writes an item as files of its own. The catalog reads .igz, .skp, .gltf and .glb models (also inside .zip files), material sets downloaded from any site, .igmat, .skm, .pbr.json and .rsmat materials, and .hdr and .exr backgrounds; folders are watched in real time or read again with Update. On the drawing's components, from the right-click menu: select all, replace all, edit, or mark as a stand-in (translucent, left out of the render). Proxies: Insert as proxy puts in a light envelope while the full model is kept in an .igz next to the drawing; right-click: Make proxy, Show original, Show proxy, Open original in a new tab. A .skp keeps its components and dynamic data with the «Parametric components from .skp» extension. Requests only reach each site's own servers over https; downloads are checked, cached and reused."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-22T00:04Z",
+   "updated_at": "2026-11-27T10:21Z",
+   "screenshot_sha": "ef30067db2127359",
+   "thumb": "asset_manager.webp"
   },
   {
    "id": "comfyui_renderer",
@@ -4033,14 +4033,14 @@
   },
   {
    "id": "igz_toolkeeper",
-   "version": "1.0.0",
+   "version": "2.6.0",
    "author": "Pedro Eugenio Pagán",
    "author_url": "https://github.com/PedroE200",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PedroE200/ingetrazo-toolkeeper",
-   "download": "https://github.com/PedroE200/ingetrazo-toolkeeper/releases/download/v1.0.0/Toolkeeper.zip",
-   "sha256": "5ec185fe84036b3a53e81cdf2d9d560519ca9ff5d0e7a9b7a101dc93149e8790",
-   "ingetrazo": "0.5.8",
+   "download": "https://github.com/PedroE200/ingetrazo-toolkeeper/releases/download/v2.6.0/Toolkeeper.zip",
+   "sha256": "aeb92cfaec96987b326c76444c0aaae5aee49b97483355f6ec31946bd691272c",
+   "ingetrazo": "0.6.3",
    "tags": [
     "productivity"
    ],
@@ -4051,14 +4051,14 @@
     "pt": "Toolkeeper"
    },
    "summary": {
-    "es": "Gestor de barras de herramientas: barras personalizadas arrastrando iconos, comandos personales (carpetas, webs, scripts), lista y edición de atajos, copias de seguridad e importar/exportar la configuración.",
-    "en": "Toolbar manager: custom toolbars built by dragging icons, personal commands (folders, links, scripts), a list and editor of all shortcuts, backups and import/export of the setup.",
-    "pt": "Gerenciador de barras de ferramentas: barras personalizadas arrastando ícones, comandos pessoais (pastas, links, scripts), lista e edição de atalhos, backups e importar/exportar a configuração."
+    "es": "Gestor de barras de herramientas: barras personalizadas arrastrando iconos, comandos personales (carpetas, webs, scripts), atajos, estados de las barras, conjuntos de extensiones y copias de seguridad.",
+    "en": "Toolbar manager: custom toolbars built by dragging icons, personal commands (folders, links, scripts), shortcuts, toolbar states, extension sets and backups.",
+    "pt": "Gerenciador de barras de ferramentas: barras personalizadas arrastando ícones, comandos pessoais (pastas, links, scripts), atalhos, estados das barras, conjuntos de extensões e backups."
    },
    "reviewed": false,
    "added_at": "2026-11-01T16:04Z",
-   "updated_at": "2026-11-01T16:04Z",
-   "screenshot_sha": "1ac19fe827e10739",
+   "updated_at": "2026-11-27T10:21Z",
+   "screenshot_sha": "ccbf5b30e400ab32",
    "thumb": "igz_toolkeeper.webp"
   },
   {
