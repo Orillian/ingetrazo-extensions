@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-27T09:14Z",
+ "generated": "2026-11-27T09:15Z",
  "tags": [
   "analysis",
   "architecture",
@@ -815,13 +815,13 @@
   },
   {
    "id": "layers_colours",
-   "version": "1.5",
+   "version": "1.6",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/e19ac2a013e90f4be632f1c82700efad2891dcc1/plugins/3D_Eddys/ed3d_layers_colours.py",
-   "sha256": "1068c54cbfe6f1fe676b90a37b179f77c11474f6d14d65ae60a8deb2ca0c1f16",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/6e457e7775536830ca50d4ab735d42fc1b7efa49/plugins/3D_Eddys/ed3d_layers_colours.py",
+   "sha256": "80a7199a44af6bae4a96adef1341649e9c799f19ac00c0e4f351905b827c660c",
    "ingetrazo": "0.5.11",
    "tags": [
     "productivity",
@@ -840,7 +840,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-14T17:46Z",
-   "updated_at": "2026-11-22T22:03Z",
+   "updated_at": "2026-11-27T09:15Z",
    "screenshot_sha": "6df771eb5f3c7bba",
    "thumb": "layers_colours.webp"
   },
